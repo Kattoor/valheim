@@ -1,0 +1,14 @@
+{
+  "name": "valheim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "valheim.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jasper Catthoor",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
